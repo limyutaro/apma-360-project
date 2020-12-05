@@ -1,0 +1,18 @@
+Matlab Code to solve Volterra Integral Equations with Convolution Kernel using Laplace Transforms
+
+We request that any errors or omissions be brought to our notice.
+Further suggestions and constructive criticisms regarding this will be acknowledged.
+
+Authors : Ankit Digarsey, Hirak Doshi
+M.Sc (Mathematics)
+Department of Mathematics And Computer Science
+Sri Sathya Sai Institute of Higher Learning
+Prasanthi Nilayam, India
+
+
+We can be reached at
+
+ankitdigarsey@gmail.com
+hirak.dmacs.sssihl@gmail.com 
+
+Copyright© 2015 CC-BY-NC-SA.
