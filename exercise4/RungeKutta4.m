@@ -1,4 +1,6 @@
 function [x,t] = RungeKutta4(f, x0, t_start, t_end, h)
+    % Based on template provided by Yarpiz
+    % https://yarpiz.com/523/yptdeq190515-runge-kutta-rk4-in-python-and-matlab
     
     t = t_start : h : t_end;            % time interval, in vector form
     numOfIntervals =  numel(t);
